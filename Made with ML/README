@@ -1,0 +1,6 @@
+@article{madewithml,
+    author       = {Goku Mohandas},
+    title        = { Home - Made With ML },
+    howpublished = {\url{https://madewithml.com/}},
+    year         = {2023}
+}
