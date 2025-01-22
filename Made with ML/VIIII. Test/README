@@ -1,0 +1,5 @@
+Learn how to test ML artifacts (code, data and models) to ensure a reliable ML system.
+
+Test the validity of the data itself.
+
+The final aspect of testing ML systems involves how to test machine learning models during training, evaluation, inference and deployment.
