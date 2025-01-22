@@ -1,0 +1,7 @@
+Keep records of the important events in our application.
+
+Documenting our code to automatically generate documentation.
+
+Style and formatting conventions to keep our code looking consistent.
+
+Using the pre-commit git hooks to ensure checks before committing.
