@@ -1,0 +1,9 @@
+Training models on our prepared data to optimize on our objective.
+
+Managing and tracking machine learning experiments.
+
+Tuning a set of hyperparameters to optimize our model's performance.
+
+Evaluating ML models by assessing overall, per-class and slice performances.
+
+Serve machine learning models in a scalable and fault-tolerant manner.
