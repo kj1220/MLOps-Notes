@@ -1,0 +1,7 @@
+Using Jobs to execute our ML workloads and Services to deploy our models in production.
+
+Using workflows to establish continuous integration and delivery pipelines to reliably iterate on our application.
+
+Learn how to monitor ML systems to identify and address sources of drift to prevent model performance decay.
+
+Learn data engineering fundamentals by constructing a modern data stack for analytics and machine learning applications.
