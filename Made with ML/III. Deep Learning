@@ -1,9 +1,0 @@
-Convolutional Neural Networks (CNNs) applied to text for natural language processing (NLP) tasks.
-
-Explore and motivate the need for representation via embeddings.
-
-Explore and motivate the need for representation via embeddings.
-
-Incorporating attention mechanisms to create context-aware representations.
-
-Implementing the Transformer architecture to extract contextual embeddings for our text classification task.
